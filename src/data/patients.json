@@ -1,0 +1,47 @@
+{
+  "PAT001": {
+    "patient_id": "PAT001",
+    "name": "John Doe",
+    "age": 35,
+    "gender": "Male",
+    "contact_info": "john.doe@email.com",
+    "authorized_doctors": [
+      "DOC001",
+      "DOC002"
+    ],
+    "public_key": "5acf762868b61b81714a31bfb1dcf925730840c1853620a13fb68a5b6f16e2f3a0846a4f12c10991f38ab35e9c13380f2fb91a7f0f3387f90cf9a304e11792d5",
+    "private_key": "9e57bdd6221f7d16acaa503e6e7be452717dd95114d071b29de4522f6e0a926f"
+  },
+  "PAT002": {
+    "patient_id": "PAT002",
+    "name": "Jane Smith",
+    "age": 28,
+    "gender": "Female",
+    "contact_info": "jane.smith@email.com",
+    "authorized_doctors": [
+      "DOC001"
+    ],
+    "public_key": "b50f66ab0d4adbbdbbbc78d7183527ab739c569b6f8003f717b9029afbea3e212b885a81e2bce08b263043d09c8deba5d17684fa47b61ec52a67cbef19567777",
+    "private_key": "5493d006b31ad8bdb656dc568b6376acb476a4429fc1fc15513b157e5c07e370"
+  },
+  "PAT003": {
+    "patient_id": "PAT003",
+    "name": "Robert Johnson",
+    "age": 45,
+    "gender": "Male",
+    "contact_info": "robert.j@email.com",
+    "authorized_doctors": [],
+    "public_key": "c3b546661d2428f991eed23c1b2115a9cbb6554637c3bb40aba66d9ad64ccb6dfe714e33532ded57b7c8ad3269ca3b51173752ef4dc093bc0b8c5fcaa5be2d13",
+    "private_key": "6166f7bd267a29dbe2af60bd164d8dd3d9980d4aaf26cb42b14679fd7f834f72"
+  },
+  "001": {
+    "patient_id": "001",
+    "name": "John Abraham",
+    "age": 30,
+    "gender": "Unknown",
+    "contact_info": "N/A",
+    "authorized_doctors": [],
+    "public_key": "9bd5491c1ee2f215c60d8afcc364edadd8cd699193f22d21fc4ea0ddf8b3e9f36e1885883f870fd20d39af90dc01acf4c9f3a727a7df491af91c9c93a1cfa442",
+    "private_key": "60f4533a0fc10c9dd21fe57ef879513bff02385a7595f0cc098313f578d348bb"
+  }
+}

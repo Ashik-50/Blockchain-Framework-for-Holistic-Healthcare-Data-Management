@@ -1,3 +1,0 @@
-caresult: -9
-thal: -9
-num: 0

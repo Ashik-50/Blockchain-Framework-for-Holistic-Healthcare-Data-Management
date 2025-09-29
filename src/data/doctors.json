@@ -1,0 +1,29 @@
+{
+  "DOC001": {
+    "doctor_id": "DOC001",
+    "name": "Alice Brown",
+    "specialization": "Cardiology",
+    "license_number": "LIC001",
+    "hospital": "City General Hospital",
+    "public_key": "c9eef78cb6fba4e40b7c0ad5b089fe724fd1bfe6ee548ded19ad666e4fe3ec84fc356ef94130cf901333b9775f670070fb6309b77a76fb55544bdab0b1300041",
+    "private_key": "3923dca697a8b1e825f2449b63d20129a02966b3aa54e52e7779e256d6eee88a"
+  },
+  "DOC002": {
+    "doctor_id": "DOC002",
+    "name": "Michael Wilson",
+    "specialization": "Neurology",
+    "license_number": "LIC002",
+    "hospital": "Metropolitan Medical Center",
+    "public_key": "bca2d29042d2207e6198ea15812e1a9dad38c78e4de2c07218a5cef65ff559d4f74f7f0a2388f8be7b38e0d43907019e5f903a0e06733106720277063f5252d9",
+    "private_key": "91d803628ae7766dd15d8893b4178bd53a302670a73303243ed50da2639f8eac"
+  },
+  "DOC003": {
+    "doctor_id": "DOC003",
+    "name": "Sarah Davis",
+    "specialization": "Pediatrics",
+    "license_number": "LIC003",
+    "hospital": "Children's Hospital",
+    "public_key": "dbb3e2f5860dd1aff964b66704b688cb3f99598d96d90c76200977125514c67b5d48f7880b74aba8f300516309d5e06f2e6ac38d1adb1c81c5887c5e6d014be4",
+    "private_key": "54087f2cbb1864f07e51c41d01b33cf7b3f145060cf0785381bca05165233538"
+  }
+}
