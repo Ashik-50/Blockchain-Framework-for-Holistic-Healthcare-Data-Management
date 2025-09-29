@@ -23,3 +23,9 @@ The system implements the core algorithms from the research paper:
    ```bash
    git clone <repository-url>
    cd healthcare_blockchain
+2. **Install the requirements**
+   ```bash
+   python -m pip install -r requirements.txt
+3. **Run the command**
+   ```bash
+   python main.py
