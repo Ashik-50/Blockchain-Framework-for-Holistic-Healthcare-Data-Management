@@ -1,0 +1,15 @@
+Id: 1
+age: 40
+sex: 1
+chestpaintype: 2
+bloodpressure: 140
+cholestoral: 289
+bloodsugar: 0
+ecgresult: 0
+maximumheartrate: 172
+exercise: 0
+oldpeak: 0
+slope: -9
+caresult: -9
+thal: -9
+num: 0

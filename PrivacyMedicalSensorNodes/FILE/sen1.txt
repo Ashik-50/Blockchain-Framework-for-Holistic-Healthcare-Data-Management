@@ -1,0 +1,3 @@
+Data mining, the extraction of hidden predictive information from 
+large databases, is a powerful new technology with great potential 
+to help companies focus on the most important information in their 
