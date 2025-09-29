@@ -1,0 +1,6 @@
+Id: 1
+age: 40
+sex: 1
+chestpaintype: 2
+bloodpressure: 140
+cholestoral: 289

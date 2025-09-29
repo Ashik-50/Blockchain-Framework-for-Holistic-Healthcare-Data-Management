@@ -1,0 +1,6 @@
+bloodsugar: 0
+ecgresult: 0
+maximumheartrate: 172
+exercise: 0
+oldpeak: 0
+slope: -9
